@@ -19,3 +19,9 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# 添加 element-ui 配置
+> 这样执行后, package.json 里会自动添加依赖配置
+```
+npm i element-ui -S
+```
